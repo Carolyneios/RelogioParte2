@@ -13,8 +13,6 @@ function relogio(){
     const segundos = horaAgora.getSeconds();
 
     const formatoHora = horas.toString().padStart(2, "0");
-    const formatoHora = 7
-
     const formatoMinutos = minutos.toString().padStart(2, "0");
     const formatoSegundos = segundos.toString().padStart(2, "0");
 
