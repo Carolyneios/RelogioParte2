@@ -1,0 +1,52 @@
+
+body{
+
+    margin: 20px;
+    color: rgb(240, 248, 255);
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: black;
+    
+}
+
+footer{
+
+    background-color: rgba(6, 6, 6, 0.127);
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    padding: 5px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    font-family: 'Josefin Sans', sans-serif;
+    bottom: 0vh;
+    left: 0;
+    text-align: center;
+    font-size: 40px;
+   
+}
+
+a{
+    color: rgb(191, 2, 2);
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+
+#imagem, #img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+
+h1, .relogio, .frase{
+
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 50px;
+    align-items: start;
+    font-size: 40px;
+    
+}
